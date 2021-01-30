@@ -2,7 +2,7 @@ My reading list
 ===============
 
 legend | mapped value
--------|--------------
+-------|-------------
 :heavy_multiplication_x: | did not start
 :heavy_minus_sign: | in progress
 :heavy_check_mark: | done
